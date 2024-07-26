@@ -1,0 +1,3 @@
+/home/pi/CANTest/build/CMakeFiles/reader.dir
+/home/pi/CANTest/build/CMakeFiles/edit_cache.dir
+/home/pi/CANTest/build/CMakeFiles/rebuild_cache.dir

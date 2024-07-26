@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/CANTest/build",
+  "command": "/usr/bin/c++   -std=gnu++11 -o CMakeFiles/reader.dir/main.cpp.o -c /home/pi/CANTest/main.cpp",
+  "file": "/home/pi/CANTest/main.cpp"
+}
+]
